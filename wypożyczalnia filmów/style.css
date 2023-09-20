@@ -1,0 +1,36 @@
+*{
+    font-family: verdana;
+}
+#baner-lewy {
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+    float: left;
+}
+#baner-prawy{
+    background-color: #29434E;
+    width: 30%;
+    height: 70px;
+    color: white;
+    float: left;
+}
+#lista,#filmy{
+    background-color:  #B0BEC5;
+    height: 320px;
+}
+#stopka {
+    background-color: #29434E;
+    color: white;;
+    
+}
+h3 {
+    background-color: #546E7A;
+    color: white;
+    margin: 0px;
+}
+h4 {
+    text-align: center;
+    margin: 0px;
+}
